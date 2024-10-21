@@ -1,2 +1,4 @@
 # CODSOFT
- A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
+1. A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
+2. This is a simple calculator web application which allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator provides instant results and supports decimal numbers.
+3. This Password Generator is a simple web application which allows users to generate random passwords according to their preferences, including password length and character types (uppercase letters, lowercase letters, numbers, and symbols). The generated password can be copied to the clipboard with a single click.
